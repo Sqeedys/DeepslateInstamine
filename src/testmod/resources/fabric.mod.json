@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "deepslate_instamine_test",
+  "version": "1.0.0",
+  "name": "Deepslate Instamine Disposable Native Tests",
+  "environment": "server",
+  "entrypoints": { "main": ["dev.sqeedys.deepslateinstamine.test.NativeChecks"] },
+  "depends": { "deepslate_instamine": "*", "fabric-lifecycle-events-v1": "*" }
+}
