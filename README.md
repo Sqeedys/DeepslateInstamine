@@ -1,5 +1,7 @@
 # Deepslate Instamine
 
+<img src="assets/deepslate-instamine.png" width="160" alt="Deepslate Instamine with a netherite pickaxe">
+
 Mine deepslate at stone speed with a **netherite pickaxe, Efficiency V and Haste II**.
 
 A small Fabric mod for **Minecraft 26.3**. Install it on **both the server and every client**, or in your client for singleplayer.

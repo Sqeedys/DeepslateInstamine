@@ -9,3 +9,7 @@ Original mod code is distributed under the [MIT License](LICENSE). The retained 
 - **Minecraft:** proprietary Mojang/Microsoft software, obtained separately by the build/runtime under its own terms. No game source or game classes are redistributed in the mod or repository.
 
 No external artwork, downloaded worlds, player records or server assets are included.
+
+## Project artwork
+
+The listing artwork depicts Minecraft game assets by Mojang and Microsoft. The project's MIT license covers the mod code. This is an unofficial Minecraft mod.
